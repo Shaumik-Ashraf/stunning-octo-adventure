@@ -1,7 +1,7 @@
 # test-build.yml
 # GitHub action to run `quarto render` as a sanity check
 
-name: "Quarto Test Build"
+name: quarto-test-build
 
 on:
   push:
@@ -9,6 +9,10 @@ on:
   pull_request:
     branches: main
   workflow_dispatch:
+
+concurrency:
+  group: "test"
+  cancel-in-progress: true
 
 jobs:
   build-test:
