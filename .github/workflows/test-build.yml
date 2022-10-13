@@ -6,7 +6,7 @@ name: "Quarto Test Build"
 on:
   push:
     branches: ["main", "test-actions"]
-  pull-request:
+  pull_request:
     branches: main
   workflow_dispatch:
 
