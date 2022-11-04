@@ -1,17 +1,24 @@
 [
   {
+    "objectID": "python.html",
+    "href": "python.html",
+    "title": "Python",
+    "section": "",
+    "text": "42\n\n42"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "stunning-octo-adventure",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n43\n\n[1] 43"
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\nThere should be a navbar to various pages executing various languages.\n\n44\n\n[1] 44"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "r.html",
+    "href": "r.html",
+    "title": "R",
     "section": "",
-    "text": "42\n\n42"
+    "text": "44\n\n[1] 44"
   },
   {
     "objectID": "stunning-octo-adventure.html",

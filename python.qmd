@@ -1,0 +1,9 @@
+---
+title: "Python"
+---
+
+The below code invokes Python shell.
+
+```{python}
+42
+```
