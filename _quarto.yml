@@ -11,6 +11,7 @@ website:
         text: Home
       - python.qmd
       - r.qmd
+      - javascript.qmd
 
 format:
   html:

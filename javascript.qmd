@@ -1,0 +1,11 @@
+---
+title: "Javsacript"
+---
+
+This page tests client-side javscript.
+
+<noscript><b>Error - You have javascript disabled</b></noscript>
+
+<button id="b">Test Javascript</button>
+
+<script src="button.js" defer="true"></script>
